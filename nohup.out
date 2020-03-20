@@ -4,37 +4,8 @@ Configuration file: /root/myblog/_config.yml
  Incremental build: enabled
       Generating... 
        Jekyll Feed: Generating feed for posts
-                    done in 0.395 seconds.
+                    done in 0.53 seconds.
  Auto-regeneration: enabled for '/root/myblog'
-    Server address: http://10.112.32.178:4000/
+    Server address: http://10.112.32.178:4000
   Server running... press ctrl-c to stop.
-      Regenerating: 9 file(s) changed at 2020-03-20 15:34:32
-                    。/.git/description
-                    。/.git/hooks/applypatch-msg.sample
-                    。/.git/hooks/commit-msg.sample
-                    。/.git/hooks/post-update.sample
-                    。/.git/hooks/prepare-commit-msg.sample
-                    。/.git/hooks/update.sample
-                    。/.git/info/exclude
-                    。/.git/config
-                    。/.git/HEAD
-       Jekyll Feed: Generating feed for posts
-                    ...done in 0.059312443 seconds.
-                    
-      Regenerating: 13 file(s) changed at 2020-03-20 15:34:54
-                    。/.git/description
-                    。/.git/hooks/applypatch-msg.sample
-                    。/.git/hooks/commit-msg.sample
-                    。/.git/hooks/post-update.sample
-                    。/.git/hooks/pre-applypatch.sample
-                    。/.git/hooks/pre-commit.sample
-                    。/.git/hooks/pre-push.sample
-                    。/.git/hooks/pre-rebase.sample
-                    。/.git/hooks/prepare-commit-msg.sample
-                    。/.git/hooks/update.sample
-                    。/.git/info/exclude
-                    。/.git/HEAD
-                    。/.git/config
-       Jekyll Feed: Generating feed for posts
-                    ...done in 0.058346556 seconds.
-                    
+[2020-03-20 16:49:13] ERROR `/web/' not found.
